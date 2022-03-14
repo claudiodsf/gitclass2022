@@ -1,8 +1,10 @@
-Tool - Fear Inoculum
+# Tool - Fear Inoculum
 
-(From Wikipedia, the free encyclopedia)
+## From Wikipedia, the free encyclopedia
 
 Fear Inoculum is the fifth studio album by American rock band Tool. It was released on August 30, 2019.
+
+![cover](https://upload.wikimedia.org/wikipedia/en/d/d6/Tool_-_Fear_Inoculum.png)
 
 It is the band's first album in 13 years, due to creative, personal, and legal issues band members encountered since the release of 10,000 Days.
 
